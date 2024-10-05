@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Sameera! 👋
 
-<!--
-**sameeraherath/sameeraherath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer passionate about creating modern web applications with React.js and Next.js. I focus on honing my skills and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools:
+
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Other Tools:** Git, GitHub, VSCode
+
+---
+
+### 🌐 Let's Connect:
+
+- **LinkedIn:** [linkedin.com/in/sameeraherath](https://www.linkedin.com/in/sameeraherath)
