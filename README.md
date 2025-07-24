@@ -31,5 +31,4 @@ I'm continuously expanding my expertise in:
 
 - 🧑‍💻 **Portfolio:** [sameeraherath.vercel.app](https://sameeraherath.vercel.app)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sameeraherath)
-- 💻 [GitHub](https://github.com/sameeraherath)
 - 📧 [sameerastar6@gmail.com](mailto:sameerastar6@gmail.com)
