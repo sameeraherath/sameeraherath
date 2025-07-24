@@ -6,11 +6,11 @@ I'm a Full-Stack Developer focused on building reliable, user-friendly web and m
 
 ### 🔧 Tech Stack
 
-Languages: JavaScript, TypeScript, Dart, Java, SQL
-Frontend: React.js, Next.js, Flutter, Tailwind CSS
-Backend: Node.js, Express.js
-Databases: MongoDB, MySQL, Firebase, Supabase, Aiven (PostgreSQL)
-DevOps & Tools: Git, GitHub, Docker (beginner), AWS (basic), Vercel, Render, Postman
+- **Languages:** JavaScript, TypeScript, Dart, Java, SQL
+- **Frontend:** React.js, Next.js, Flutter, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, Firebase, Supabase, Aiven (PostgreSQL)
+- **DevOps & Tools:** Git, GitHub, Docker, AWS, Vercel, Render, Postman
 
 ---
 
@@ -18,12 +18,12 @@ DevOps & Tools: Git, GitHub, Docker (beginner), AWS (basic), Vercel, Render, Pos
 
 I'm continuously expanding my expertise in:
 
-🔹 DevOps & Cloud: AWS (basic), Docker, Vercel, Render, CI/CD fundamentals
-🔹 Architecture & Design: Design Patterns, Software Architecture, SaaS models
-🔹 AI/ML: Basics of AI/ML, Gemini API, OpenAI integration
-🔹 Performance & UX: Building optimized UIs, accessibility
-🔹 DSA: Solving problems in Java, focusing on core algorithms
-🔹 Open Source: Actively contributing and learning from real-world codebases
+- **DevOps & Cloud:** AWS (basic), Docker, Vercel, Render, CI/CD fundamentals
+- **Architecture & Design:** Design Patterns, Software Architecture, SaaS models
+- **AI/ML:** Basics of AI/ML, Gemini API, OpenAI integration
+- **Performance & UX:** Building optimized UIs, accessibility
+- **DSA:** Solving problems in Java, focusing on core algorithms
+- **Open Source:** Actively contributing and learning from real-world codebases
 
 ---
 
