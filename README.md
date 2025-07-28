@@ -6,7 +6,7 @@ I'm a Full-Stack Developer focused on building reliable, user-friendly web and m
 
 ### 🔧 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Dart, Java, SQL
+- **Languages:** JavaScript, TypeScript, Dart, Java, Python, SQL
 - **Frontend:** React.js, Next.js, Flutter, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL, Firebase, Supabase, Aiven (PostgreSQL)
@@ -22,7 +22,7 @@ I'm continuously expanding my expertise in:
 - **Architecture & Design:** Design Patterns, Software Architecture, SaaS models
 - **AI/ML:** Basics of AI/ML, Gemini API, OpenAI integration
 - **Performance & UX:** Building optimized UIs, accessibility
-- **DSA:** Solving problems in Java, focusing on core algorithms
+- **DSA:** Solving problems in Python, focusing on core algorithms
 - **Open Source:** Actively contributing and learning from real-world codebases
 
 ---
