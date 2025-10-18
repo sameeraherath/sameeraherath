@@ -4,18 +4,10 @@ I'm a Full-Stack Developer focused on building reliable, user-friendly web and m
 
 ---
 
-### 🔧 Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Dart, Java, Python, SQL
-- **Frontend:** React.js, Next.js, Flutter, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL, Firebase, Supabase, Aiven (PostgreSQL)
-- **DevOps & Tools:** Git, GitHub, Docker, AWS, Vercel, Render, Postman
-
----
-
 ### 🌐 Let’s Connect
 
-- 🧑‍💻 **Portfolio:** [sameeraherath.vercel.app](https://sameeraherath.vercel.app)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sameeraherath)
-- 📧 [sameerastar6@gmail.com](mailto:sameerastar6@gmail.com)
+- 🧑‍💻 **Portfolio:** [sameeraherath.com](https://sameeraherath.com)
+- 📧 [sameeraherathmail@gmail.com](mailto:sameeraherathmail@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameeraherath)
+[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@sameeraherath)
