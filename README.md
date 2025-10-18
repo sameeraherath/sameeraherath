@@ -9,5 +9,7 @@ I'm a Full-Stack Developer focused on building reliable, user-friendly web and m
 - 🧑‍💻 **Portfolio:** [sameeraherath.com](https://sameeraherath.com)
 - 📧 [sameeraherathmail@gmail.com](mailto:sameeraherathmail@gmail.com)
 
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameeraherath)
 [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@sameeraherath)
