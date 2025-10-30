@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sameera Herath
 
-I'm a Full-Stack Developer focused on building reliable, user-friendly web and mobile applications, with a strong focus on cloud development and <mark>specialization in AWS</mark>. I emphasize clean architecture, performance, and user experience while leveraging modern technologies to solve real-world problems.
+I'm a Full-Stack Developer focused on building reliable, user-friendly web and mobile applications, with a strong focus on cloud development and <span style="background-color:#FF9900; color:#000; padding:0 2px; border-radius:2px;">specialization in AWS</span>. I emphasize clean architecture, performance, and user experience while leveraging modern technologies to solve real-world problems.
 
 ---
 
