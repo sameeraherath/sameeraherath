@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sameera Herath
 
-I'm a Full-Stack Developer focused on building reliable, user-friendly web and mobile applications, with a strong focus on cloud development and <svg xmlns="http://www.w3.org/2000/svg" width="180" height="20" role="img" aria-label="specialization in AWS" style="vertical-align:middle;"><rect width="100%" height="20" fill="#FF9900" rx="3"/><text x="50%" y="14" text-anchor="middle" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#252F3E">specialization in AWS</text></svg>. I emphasize clean architecture, performance, and user experience while leveraging modern technologies to solve real-world problems.
+I'm a Full-Stack Developer focused on building reliable, user-friendly web and mobile applications, with a strong focus on cloud development and <img alt="specialization in AWS" src="https://placehold.co/180x20/FF9900/252F3E?text=specialization%20in%20AWS&font=inter&font-weight=600" style="vertical-align:middle;"/>. I emphasize clean architecture, performance, and user experience while leveraging modern technologies to solve real-world problems.
 
 ---
 
